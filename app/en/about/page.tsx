@@ -21,14 +21,13 @@ export default function About() {
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/50 text-white text-center px-4 py-10 max-w-3xl mx-auto h-full overflow-y-auto">
           <h1 className="text-4xl font-bold">About Us</h1>
           <p className="text-lg mt-4">
-            Curry Film AS is an award-winning production company that has 
-            produced several successful films and TV series since 2012.
+          Curry Film AS makes films and TV series. We’ve done it since 2012.
           </p>
           <p className="text-lg mt-4">
-          We create documentaries and fiction for TV, cinema and digital channels.
+          We tell stories that matter. Documentaries. Drama. For TV, cinema, and the web.
           </p>
           <p className="text-lg mt-4">
-          We are based in Oslo, Norway.
+          We do the work right. We care about it. We are in Oslo.
           </p>
 
           {/* 🔥 Link to "Our Team" Page */}
