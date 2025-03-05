@@ -21,7 +21,7 @@ export default function About() {
         <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/50 text-white text-center px-4 py-10 max-w-3xl mx-auto h-full overflow-y-auto">
           <h1 className="text-4xl font-bold">Om oss</h1>
           <p className="text-lg mt-4">
-          Curry Film AS lager filmer og TV-serier. Vi har gjort det siden 2012.
+          Curry Film lager filmer og TV-serier. Vi har gjort det siden 2012.
           </p>
           <p className="text-lg mt-4">
           Vi forteller historier som betyr noe. Dokumentarer. Drama. For TV, kino og nett.
