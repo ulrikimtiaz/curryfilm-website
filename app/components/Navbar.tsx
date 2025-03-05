@@ -34,9 +34,9 @@ export default function Navbar() {
       }`}
     >
       {/* Logo / Hjem-lenke */}
-      <Link href="/" className="text-white text-2xl font-bold">
+      <span className="text-white text-2xl font-bold">
         Curry Film
-      </Link>
+        </span>
 
       {/* Navigasjonslenker */}
       <div className="space-x-6">
