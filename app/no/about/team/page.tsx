@@ -18,8 +18,8 @@ export default function Team() {
       </div>
 
       <div className="text-center mt-20 px-6">
-        <h1 className="text-4xl font-bold text-gray-900">Om folka våre</h1>
-        <p className="text-lg mt-2 text-gray-800">
+        <h1 className="text-4xl font-bold text-white">Om folka våre</h1>
+        <p className="text-lg mt-2 text-white">
           Møt menneskene bak Curry Film AS.
         </p>
       </div>
@@ -36,9 +36,9 @@ export default function Team() {
             height={600} 
             className="mx-auto"
           />
-          <h2 className="text-2xl font-semibold mt-4 text-gray-900">Ulrik Imtiaz Rolfsen</h2>
-          <p className="text-lg mt-2 text-gray-800">REGISSØR</p>
-          <p className="text-lg mt-2 text-gray-500">
+          <h2 className="text-2xl font-semibold mt-4 text-black">Ulrik Imtiaz Rolfsen</h2>
+          <p className="text-lg mt-2 text-black">REGISSØR</p>
+          <p className="text-lg mt-2 text-black">
             <a href="mailto:ulrik@curryfilm.no" className="text-blue-500 hover:underline">ulrik@curryfilm.no</a>
           </p>
         </div>
@@ -52,9 +52,9 @@ export default function Team() {
             height={600} 
             className="mx-auto"
           />
-          <h2 className="text-2xl font-semibold mt-4 text-gray-900">Kim K. Berle</h2>
-          <p className="text-lg mt-2 text-gray-800">FOTOGRAF</p>
-          <p className="text-lg mt-2 text-gray-500">
+          <h2 className="text-2xl font-semibold mt-4 text-black">Kim K. Berle</h2>
+          <p className="text-lg mt-2 text-black">FOTOGRAF</p>
+          <p className="text-lg mt-2 text-black">
             <a href="mailto:berle.kim@gmail.com" className="text-blue-500 hover:underline">berle.kim@gmail.com</a>
           </p>
           <p className="text-lg mt-2 text-gray-500">
@@ -71,9 +71,9 @@ export default function Team() {
             height={600} 
             className="mx-auto"
           />
-          <h2 className="text-2xl font-semibold mt-4 text-gray-900">Philip H. Sivertsen</h2>
-          <p className="text-lg mt-2 text-gray-800">PRODUKSJONSLEDER</p>
-          <p className="text-lg mt-2 text-gray-500">
+          <h2 className="text-2xl font-semibold mt-4 text-black">Philip H. Sivertsen</h2>
+          <p className="text-lg mt-2 text-black">PRODUKSJONSLEDER</p>
+          <p className="text-lg mt-2 text-black">
             <a href="mailto:philiphallresivertsen@gmail.com" className="text-blue-500 hover:underline">philiphallresivertsen@gmail.com</a>
           </p>
           <p className="text-lg mt-2 text-gray-500">
