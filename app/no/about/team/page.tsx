@@ -58,7 +58,7 @@ export default function Team() {
             <a href="mailto:berle.kim@gmail.com" className="text-blue-500 hover:underline">berle.kim@gmail.com</a>
           </p>
           <p className="text-lg mt-2 text-gray-500">
-            📞 <a href="tel:+4792440321" className="text-blue-500 hover:underline">924 40 321</a>
+            📞 <a href="tel:+4792440321" className="text-blue-500 hover:underline">+47 924 40 321</a>
           </p>
         </div>
 
@@ -77,7 +77,7 @@ export default function Team() {
             <a href="mailto:philiphallresivertsen@gmail.com" className="text-blue-500 hover:underline">philiphallresivertsen@gmail.com</a>
           </p>
           <p className="text-lg mt-2 text-gray-500">
-            📞 <a href="tel:+4791386130" className="text-blue-500 hover:underline">91 38 61 30</a>
+            📞 <a href="tel:+4791386130" className="text-blue-500 hover:underline">+47 913 86 130</a>
           </p>
         </div>
 
