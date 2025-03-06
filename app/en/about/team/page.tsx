@@ -28,20 +28,25 @@ export default function Team() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 p-10 max-w-5xl mx-auto">
         
         {/* Ulrik */}
-        <div className="text-center bg-white p-6 rounded-lg shadow-lg">
-          <Image 
-            src="/ulrik.jpg" 
-            alt="Ulrik Imtiaz Rolfsen" 
-            width={600} 
-            height={600} 
-            className="mx-auto"
-          />
-          <h2 className="text-2xl font-semibold mt-4 text-black">Ulrik Imtiaz Rolfsen</h2>
-          <p className="text-lg mt-2 text-black">DIRECTOR</p>
-          <p className="text-lg mt-2 text-gray-500">
-            <a href="mailto:ulrik@curryfilm.no" className="text-blue-500 hover:underline">ulrik@curryfilm.no</a>
-          </p>
-        </div>
+<div className="text-center bg-white p-6 rounded-lg shadow-lg">
+  <Image 
+    src="/ulrik.jpg" 
+    alt="Ulrik Imtiaz Rolfsen" 
+    width={600} 
+    height={600} 
+    className="mx-auto"
+  />
+  <h2 className="text-2xl font-semibold mt-4">Ulrik Imtiaz Rolfsen</h2>
+  <p className="text-lg mt-2">DIRECTOR</p>
+  <p className="text-lg mt-2 text-gray-500">
+    <a href="mailto:ulrik@curryfilm.no" className="text-blue-500 hover:underline">ulrik@curryfilm.no</a>
+  </p>
+  <p className="text-lg mt-2 text-gray-500">
+    🎬 <a href="https://pro.imdb.com/name/nm1975024" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+      IMDbPro Profil
+    </a>
+  </p>
+</div>
 
         {/* Kim */}
         <div className="text-center bg-white p-6 rounded-lg shadow-lg">
