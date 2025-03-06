@@ -36,8 +36,8 @@ export default function Team() {
     height={600} 
     className="mx-auto"
   />
-  <h2 className="text-2xl font-semibold mt-4">Ulrik Imtiaz Rolfsen</h2>
-  <p className="text-lg mt-2">DIRECTOR</p>
+  <h2 className="text-2xl font-semibold mt-4 text-black">Ulrik Imtiaz Rolfsen</h2>
+  <p className="text-lg mt-2 text-black">DIRECTOR</p>
   <p className="text-lg mt-2 text-black">
     <a href="mailto:ulrik@curryfilm.no" className="text-blue-500 hover:underline">ulrik@curryfilm.no</a>
   </p>
