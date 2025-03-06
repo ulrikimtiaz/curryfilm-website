@@ -38,10 +38,10 @@ export default function Team() {
   />
   <h2 className="text-2xl font-semibold mt-4">Ulrik Imtiaz Rolfsen</h2>
   <p className="text-lg mt-2">DIRECTOR</p>
-  <p className="text-lg mt-2 text-gray-500">
+  <p className="text-lg mt-2 text-black">
     <a href="mailto:ulrik@curryfilm.no" className="text-blue-500 hover:underline">ulrik@curryfilm.no</a>
   </p>
-  <p className="text-lg mt-2 text-gray-500">
+  <p className="text-lg mt-2 text-black">
     🎬 <a href="https://pro.imdb.com/name/nm1975024" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
       IMDbPro Profil
     </a>
