@@ -18,7 +18,7 @@ export default function Team() {
       </div>
 
       <div className="text-center mt-20 px-6">
-        <h1 className="text-4xl font-bold text-white">Curry folka</h1>
+        <h1 className="text-4xl font-bold text-white">Teamet</h1>
         <p className="text-lg mt-2 text-white">
           Møt menneskene bak Curry Film.
         </p>
